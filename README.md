@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rafael Vazquez Corona
 - 👀 I’m interested in expanding my knowledge and keeping it fresh!
-- 🌱 I’m currently creating a personal C++ Qt application that identifies duplicated images in between two folders in windows. 
+- 🌱 I’m currently creating a personal C++ Qt application that identifies duplicated photos between two folders in windows. 
 - 📫 How to reach me:
   - rafaelvc891@gmail.com
   - https://www.linkedin.com/in/rafael-vazquez-corona-76940452/
